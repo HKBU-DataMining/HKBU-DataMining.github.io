@@ -12,7 +12,7 @@ NLP
 Bioinformatics
 
 ### Group members
-NIU Shuai(csshniu@comp.hkbu.edu.hk), YIN Qing(csqyin@comp.hkbu.edu.hk), YAN Hedong(cshdyan@comp.hkbu.edu.hk)
+NIU Shuai(cssniu@comp.hkbu.edu.hk), YIN Qing(csqyin@comp.hkbu.edu.hk), YAN Hedong(cshdyan@comp.hkbu.edu.hk)
 
 ### Openings
 We are looking for PhD candidates who have experience in Machine learning, deep learning, natural language processing, computer vision.
