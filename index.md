@@ -14,17 +14,18 @@ This applied machine learning group is led by Dr. Xian Yang (xianyang@hkbu.edu.h
 ### Group members
 NIU Shuai(cssniu@comp.hkbu.edu.hk), YIN Qing(csqyin@comp.hkbu.edu.hk), YAN Hedong(cshdyan@comp.hkbu.edu.hk)
 
-### Openings
+### <font color='red'>Openings</font>
 We are looking for PhD candidates who have experience in Machine learning, deep learning, natural language processing, computer vision.
 
 ### Selected publications
 #### AI in healthcare
-Niu, Q. Yin, Y. Song, Y. Guo, X. Yang*, “Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records,” in 21st IEEE International Conference on Data Mining (ICDM), 2021. 
+S. Niu, Q. Yin, Y. Song, Y. Guo, X. Yang*, “Label Dependent Attention Model for Disease Risk Prediction Using Multimodal Electronic Health Records,” in 21st IEEE International Conference on Data Mining (ICDM), 2021. 
 
 S. Niu, Y. Song, Q. Yin, Y. Guo, X. Yang*, “Label-dependent and event-guided interpretable disease risk prediction using EHRs,” in IEEE International Conference on Bioinformatics and Biomedicine 2021 (IEEE BIBM), 2021.
 
 #### Computational epidemiology
 Wang, Shuo, Xian Yang, Ling Li, Philip Nadler, Rossella Arcucci, Yuan Huang, Zhongzhao Teng, and Yike Guo. "A bayesian updating scheme for pandemics: estimating the infection dynamics of covid-19." IEEE Computational Intelligence Magazine 15, no. 4 (2020): 23-33.
+
 Nadler, Philip, Shuo Wang, Rossella Arcucci, Xian Yang, and Yike Guo. "An epidemiological modelling approach for COVID-19 via data assimilation." European Journal of Epidemiology 35, no. 8 (2020): 749-761.
 
 #### NLP
