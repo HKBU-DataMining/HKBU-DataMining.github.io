@@ -12,7 +12,7 @@ NLP
 Bioinformatics
 
 ### Group members
-NIU Shuai, YIN Qing, YAN Hedong （加上各自邮箱）
+NIU Shuai(csshniu@comp.hkbu.edu.hk), YIN Qing(csqyin@comp.hkbu.edu.hk), YAN Hedong(cshdyan@comp.hkbu.edu.hk)
 
 ### Openings
 We are looking for PhD candidates who have experience in Machine learning, deep learning, natural language processing, computer vision.
@@ -47,5 +47,5 @@ J. Perotin, J. Schofield, S. Wilson, J. Ward, J. Brandsma, F. Strazzeri, A. Bans
 
 J. Schofield, D. Burg, B. Nicholas, F. Strazzeri, J. Brandsma, D. Staykova, C. Folisi, A. Bansal, X. Yang, et al. “Stratification of asthma phenotypes by airway proteomic signatures”, Journal of Allergy and Clinical Immunology, 2019. 
 
-### collaborators
+### Collaborators
 GUO Yike, XU Yida, SONG Yunya
