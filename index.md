@@ -29,7 +29,7 @@ Wang, Shuo, Xian Yang, Ling Li, Philip Nadler, Rossella Arcucci, Yuan Huang, Zho
 Nadler, Philip, Shuo Wang, Rossella Arcucci, Xian Yang, and Yike Guo. "An epidemiological modelling approach for COVID-19 via data assimilation." European Journal of Epidemiology 35, no. 8 (2020): 749-761.
 
 #### NLP
-Zhang, Jingqing, Luis Bolanos, Tong Li, Ashwani Tanwar, Guilherme Freire, Xian Yang, Julia Ive, Vibhor Gupta, and Yike Guo. "Self-Supervised Detection of Contextual Synonyms in a Multi-Class Setting: Phenotype Annotation Use Case." arXiv preprint arXiv:2109.01935 (2021).
+Zhang, Jingqing, Luis Bolanos, Tong Li, Ashwani Tanwar, Guilherme Freire, Xian Yang, Julia Ive, Vibhor Gupta, and Yike Guo. "Self-Supervised Detection of Contextual Synonyms in a Multi-Class Setting: Phenotype Annotation Use Case." In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2021.
 
 Zhang, Jingqing, Xiaoyu Zhang, Kai Sun, Xian Yang, Chengliang Dai, and Yike Guo. "Unsupervised annotation of phenotypic abnormalities via semantic latent representations on electronic health records." In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 598-603. IEEE, 2019.
 
